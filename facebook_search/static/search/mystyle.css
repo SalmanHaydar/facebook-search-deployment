@@ -1,0 +1,14 @@
+thead th {
+  border: 2px solid black;
+
+}
+
+
+table tr {
+  border: 1px solid black;
+}
+.tab {
+  overflow: scroll;
+  width: auto;
+  height: 500px;
+}
